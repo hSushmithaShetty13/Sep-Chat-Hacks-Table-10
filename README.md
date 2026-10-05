@@ -59,7 +59,10 @@ This is not another chatbot offering plausible advice. It is a **governed decisi
 
 ### Fastest path: two-minute video
 
-Watch the [two-minute narrated demo](./02-Video/Fabric_Migration_Readiness_Assistant_2min_Demo.mp4).
+Watch the **[two-minute narrated demo in your browser](https://hsushmithashetty13.github.io/Sep-Chat-Hacks-Table-10/watch-demo.html)**.
+
+If GitHub Pages is unavailable, you can also
+[download the original MP4](./02-Video/Fabric_Migration_Readiness_Assistant_2min_Demo.mp4).
 
 ### Interactive path: no installation required
 
@@ -78,7 +81,7 @@ The scenarios deliberately contain a mix of Ready, Optimise, and Redesign outcom
 
 - Open the [eight-slide pitch deck](./01-Presentation/Fabric_Migration_Readiness_Assistant_Hackathon_Deck.pptx).
 - Use the [presenter and live-demo script](./01-Presentation/Fabric_Migration_Readiness_Assistant_Demo_Script.txt).
-- Play the [two-minute narrated demo](./02-Video/Fabric_Migration_Readiness_Assistant_2min_Demo.mp4).
+- Play the [two-minute narrated demo in your browser](https://hsushmithashetty13.github.io/Sep-Chat-Hacks-Table-10/watch-demo.html).
 
 ## How it works
 
@@ -201,4 +204,3 @@ The pilot will measure:
 **Idea:** Fabric Migration Readiness & Optimisation Assistant  
 **Engine version:** 0.2.0  
 **Category:** AI-assisted customer discovery, migration planning, and Microsoft Fabric adoption
-
