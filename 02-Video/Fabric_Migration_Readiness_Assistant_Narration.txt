@@ -1,0 +1,13 @@
+Here is the Fabric Migration Readiness and Optimisation Assistant as a working prototype, not a slide. We start on discovery by bringing in the customer's estate inventory. The included Excel workbook is saved as CSV, then uploaded directly in the browser.
+
+The file has imported five workloads. Notice that upload does not invent missing facts or claim readiness. After Continue, every imported row is clearly marked Needs Discovery until a CSA validates scale, dependencies, constraints, and operational requirements.
+
+The Add Workload action supports the same process during a live customer conversation. A CSA can capture technology, data size, concurrency, complexity, features, dependencies, and notes without leaving the workflow.
+
+For this walkthrough, we now load confirmed sample facts for the broader Contoso estate. The workload inventory immediately shows the recommended Fabric pattern and current readiness for Power BI, Analysis Services, Data Factory, Databricks, Spark, Azure SQL, and Logic Apps.
+
+The assessment is deliberately explainable. Each workload can be opened to show three things: risks or blockers, optimisation opportunities, and the follow-up questions that still need an answer. Power BI highlights model and Direct Lake decisions. Analysis Services exposes redesign and compatibility work. Data Factory surfaces runtime and connector dependencies. Databricks maps to OneLake shortcuts with Fabric Spark or governed coexistence. Spark jobs map to Real-Time Intelligence, Eventstream, and Fabric Spark. Azure SQL considers Fabric Warehouse with mirroring or Data Factory ingestion. Logic Apps stays visible as an application workflow that may invoke Fabric for data work.
+
+The final summary translates those findings into an executive position, target patterns, prioritised next steps, and directional SKU Estimator inputs. These are sizing inputs, not a capacity quote.
+
+Next, the same readiness workflow can extend beyond today's Microsoft-first scope: Snowflake, deeper Databricks telemetry, AWS and Google Cloud services, plus Oracle, Teradata, and other enterprise sources. Broader estate coverage, with the same evidence-led and explainable recommendation.

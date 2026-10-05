@@ -1,0 +1,30 @@
+FABRIC MIGRATION READINESS AND OPTIMISATION ASSISTANT
+Hackathon presentation guide
+
+DEMO ASSETS
+- Fabric_Migration_Readiness_Assistant_Hackathon_Deck.pptx: editable 8-slide deck.
+- Fabric_Migration_Readiness_Assistant_2min_Demo.mp4: 120-second narrated overview.
+- Fabric_Migration_Readiness_Assistant_Demo_Script.txt: narration and live-demo runbook.
+- Contoso_Estate_Inventory.xlsx: spreadsheet template for customer inventory.
+- Contoso_Estate_Inventory.csv: browser-ready export of the same spreadsheet.
+- Contoso_Estate_Overview.pdf: text-based PDF for the CLI/Copilot extraction path.
+
+TWO-MINUTE PROTOTYPE WALKTHROUGH
+1. Open index.html in Edge or Chrome and select Reset.
+2. Explain the three intake paths: manual form, Excel saved as CSV, or PDF through Copilot/CLI.
+3. Select Upload PDF or CSV and choose Contoso_Estate_Inventory.csv.
+4. Select Continue and point out that imported rows are Needs Discovery, not guessed as ready.
+5. Open Add Workload to show manual conversational discovery fields.
+6. Select Load sample to show a completed assessment with confirmed facts.
+7. Open Assessment and expand every workload to show blockers, optimisation actions, and questions.
+8. Open Summary to show executive position, target patterns, next steps, and SKU Estimator inputs.
+9. Close on the roadmap for Snowflake, deeper Databricks telemetry, AWS/GCP, Oracle, and Teradata.
+
+IMPORTANT DEMO LANGUAGE
+- Say "Excel inventory saved as CSV"; the browser does not natively parse .xlsx.
+- Say "directional SKU Estimator inputs," not "capacity quote."
+- PDF extraction runs through the CLI or Copilot workflow, not inside the browser-only page.
+
+
+VIDEO NARRATION
+See Fabric_Migration_Readiness_Assistant_Narration.txt for the action-synchronised narration used by the rendered walkthrough.

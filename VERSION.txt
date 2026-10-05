@@ -1,0 +1,5 @@
+Fabric Migration Readiness and Optimisation Assistant - Complete CSA Enablement Kit
+Built: 2026-10-02T15:58:48Z
+Source commit: f78485b
+Engine version: 0.2.0
+Start with START_HERE.md.
